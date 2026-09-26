@@ -70,8 +70,8 @@ Ravi is currently interested in:
 - algebraic geometry;
 - cohomological methods;
 - derived categories;
-- \(A_\infty\)-algebras;
-- \(p\)-adic geometry;
+- $A_\infty$-algebras;
+- $p$-adic geometry;
 - derived and prismatic methods.
 
 [Read Ravi's research directions](ravi-directions.md)
