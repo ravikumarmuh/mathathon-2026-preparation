@@ -3,6 +3,20 @@ layout: default
 title: Caltech Mathathon 2026
 ---
 
+
+$\mathcal{F}$
+
+$H^i(X,\mathcal{F})$
+
+$$
+\text{theme}
+\longrightarrow
+\text{problem}
+\longrightarrow
+\text{plan of attack}
+$$
+
+
 # Caltech Mathathon 2026 — Ravi & Colin
 
 Welcome to our working page for the **Caltech Mathathon 2026**.
