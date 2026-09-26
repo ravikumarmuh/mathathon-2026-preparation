@@ -4,17 +4,7 @@ title: Caltech Mathathon 2026
 ---
 
 
-$\mathcal{F}$
 
-$H^i(X,\mathcal{F})$
-
-$$
-\text{theme}
-\longrightarrow
-\text{problem}
-\longrightarrow
-\text{plan of attack}
-$$
 
 
 # Caltech Mathathon 2026 — Ravi & Colin
@@ -118,3 +108,15 @@ We are keeping separate notes for material that may eventually be distilled into
 ---
 
 **Status:** Work in progress. This page is being actively updated during our Mathathon preparation.
+
+$\mathcal{F}$
+
+$H^i(X,\mathcal{F})$
+
+$$
+\text{theme}
+\longrightarrow
+\text{problem}
+\longrightarrow
+\text{plan of attack}
+$$
