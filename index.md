@@ -1,3 +1,8 @@
+---
+layout: default
+title: Caltech Mathathon 2026
+---
+
 # Caltech Mathathon 2026 — Ravi & Colin
 
 Welcome to our working page for the **Caltech Mathathon 2026**.
