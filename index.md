@@ -147,7 +147,7 @@ $$X(\mathbb{R}_{>0}) \;=\; \operatorname{Hom}_{\text{semiring}}\big(A,\ \mathbb{
 | (1) | Local–global principle for divisibility in uniquely-divisible $\mathfrak{N}$-semigroups | Done (Colin) |
 | (2) | **Local–global principle for subtraction.** For $f, g \in A$, whether $g - f$ exists in $A$ is decided by the values $\varphi(f), \varphi(g)$ at all $\varphi \in X(\mathbb{R}_{>0})$ | **Round 1: core target** |
 | (3) | Graded version of (2), for graded semirings $S = \bigoplus_{d} S_d$ of the same type | Round 1: stretch goal |
-| (4) | **Geometrisation** into affine $\mathfrak{N}$-semischemes $\operatorname{Spec}_{\mathfrak{N}} A$ and projective ones $\operatorname{Proj}_{\mathfrak{N}} S$: Zariski topology on $\mathbb{R}_{>0}$-rational points, structure sheaf, gluing | **Round 1: affine case.** Round 2: projective case |
+| (4) | **Geometrisation** into affine $\mathfrak{N}$-semischemes $\operatorname{Spec}__{}$ and projective ones $\operatorname{Proj}_{\mathfrak{N}} S$: Zariski topology on $\mathbb{R}_{>0}$-rational points, structure sheaf, gluing | **Round 1: affine case.** Round 2: projective case |
 | (5) | Abstract geometric Positivstellensätze: denominator-free on affine varieties, uniform-denominator on projective varieties | Round 2 |
 | (6) | Deduce the known Archimedean Positivstellensätze by specialising to toric, real and complex varieties | **Round 1: Bernstein and Pólya.** Round 2: the rest |
 
