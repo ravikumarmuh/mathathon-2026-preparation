@@ -231,4 +231,5 @@ At Mathathon we aim to (i) prove the relative local–global principle for subtr
 
 Round 2: the graded and projective case; abstract denominator-free and uniform-denominator Positivstellensätze; and deducing 10–20 known results, through Tan–To (2026), by specialising to toric, real and complex varieties.
 
-```
+---
+$\mathfrak{N}$
