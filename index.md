@@ -15,7 +15,7 @@ This page collects our current mathematical directions, AI-assisted research exp
 
 ## Team
 
-- **COlin Tan**
+- **Colin Tan**
 - **Ravi Kumar**
 
 ## Main Idea
