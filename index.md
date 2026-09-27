@@ -90,7 +90,8 @@ That gives a thin but complete path from (1) to (6), which suits the judging for
 
 ---
 
-**2) Your role**
+**2) Ravi Kumar role**
+Since, the whole idea is Colin's. So, what is Ravi's role in this mathathon?
 
 **Primary role:** geometrisation lead, step (4). Colin thinks in varieties and real algebra; you think in schemes. Your job is to turn his algebra into geometry:
 
